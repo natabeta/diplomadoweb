@@ -1,0 +1,13 @@
+
+body{
+	background-image: url(fondo.jpg);
+	background-attachment: fixed; 
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.texto{
+	column-count: 3;
+	column-rule: dashed 0.2em;
+	width: 30%;
+}
